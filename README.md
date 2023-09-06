@@ -12,8 +12,13 @@ This project is a Django-based web application that provides a platform for user
 - User passwords are securely hashed and not exposed in the API responses.
 
 <img width="1423" alt="Screenshot 2023-09-05 at 8 33 36 PM" src="https://github.com/MagdaSlifierz/Youtube_Channel_Rater/assets/49603115/0b4369a9-a30f-458a-8d44-55e7afeb27db">
+
+<img width="1436" alt="Screenshot 2023-09-05 at 8 50 27 PM" src="https://github.com/MagdaSlifierz/Youtube_Channel_Rater/assets/49603115/585e7e96-5b82-42e4-ae83-7f25a24bf4fb">
+
 <img width="1434" alt="Screenshot 2023-09-05 at 9 29 22 PM" src="https://github.com/MagdaSlifierz/Youtube_Channel_Rater/assets/49603115/94a222a8-b209-408c-a3ca-4e7b655a7b9a">
+
 <img width="1436" alt="Screenshot 2023-09-05 at 8 55 47 PM" src="https://github.com/MagdaSlifierz/Youtube_Channel_Rater/assets/49603115/7e0e7c87-e5f3-40f5-a788-00e510b90037">
+
 <img width="1434" alt="Screenshot 2023-09-05 at 8 31 43 PM" src="https://github.com/MagdaSlifierz/Youtube_Channel_Rater/assets/49603115/3514f99b-7f17-4d1d-8696-dbd483c25507">
 ## API Endpoints
 
